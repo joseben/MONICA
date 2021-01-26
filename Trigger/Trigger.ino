@@ -8,7 +8,7 @@ const char* ssid     = ****;
 const char* password = ****;  
 
 const uint16_t port = 8080;
-const char *host = "192.168.1.20";
+const char *host = "server ip";
 WiFiClient client;
 void setup()
 {
